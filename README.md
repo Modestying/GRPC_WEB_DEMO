@@ -3,7 +3,7 @@
 proto 
 need plugin `protoc-gen-grpc-web`
 
-proto-gen-grpc-web address:`https://github.com/protocolbuffers/protobuf/releases`,add file to `$PATH` in `~/,profile`
+proto-gen-grpc-web address:`https://github.com/protocolbuffers/protobuf/releases`,add file to `$PATH` in `~/.profile`
 
 
 make command
